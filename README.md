@@ -1,12 +1,10 @@
 > 本仓库源码开源，你可以直接拿本仓库源码去进行魔改。
-> 此项目我借鉴了一位前辈的idea，用他的源码做了部分改动，在此表示感谢。
-> 源地址：https://github.com/Rychou/two_years
 
 # 两周年纪念日网页
 
 这个小小的网页是两周年纪念日的时候做的，送给女朋友，也是第一次做这种东西。最终女朋友看到了也被感动到了，有女朋友的程序猿们可以借鉴一下啦。
 
-[https://www.yxlyz.net](https://www.yxlyz.net)
+https://www.yxlyz.net/love
 
 技术栈：
 
